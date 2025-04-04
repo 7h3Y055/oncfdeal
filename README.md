@@ -6,6 +6,11 @@ A script to list all ONCF train ticket prices and find the best (cheapest) optio
 ### Prerequisites
 - Ensure you have a Unix-based system with a shell terminal.
 
+### Screenshot
+Below is a screenshot of the script in action:
+
+![Screenshot of oncfdeal](screenshot.png)
+
 ### Usage
 1. Clone the repository:
     ```bash
