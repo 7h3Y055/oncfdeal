@@ -1,5 +1,5 @@
 #!/bin/bash
-source /home/youssef/oncf/codes.sh
+source $PWD/codes.sh
 
 
 if [[ "$1" == "--stations" || "$1" == "-s" ]]; then
